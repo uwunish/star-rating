@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	background-color: rgb(165, 165, 227);
+	font-size: 30px;
+}
+
+.active {
+	color: yellow;
+}
+
+.inactive {
+	color: black;
+}
